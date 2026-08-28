@@ -1,0 +1,25 @@
+{
+  "city_id": "bengaluru_osm",
+  "display_name": "Bengaluru — OpenStreetMap corridor",
+  "country": "IN",
+  "currency": "INR",
+  "currency_symbol": "₹",
+  "timezone": "Asia/Kolkata",
+  "bbox": {
+    "min_lat": 12.846749,
+    "min_lon": 77.51433,
+    "max_lat": 13.010765,
+    "max_lon": 77.704624
+  },
+  "centre": {
+    "lat": 12.9767,
+    "lon": 77.5713
+  },
+  "data_status": "osm",
+  "data_status_label": "OpenStreetMap network · estimated times",
+  "notes": "Road network, junctions, bus stop positions, metro stations and line membership come from OpenStreetMap via the Overpass API (ODbL 1.0). Named place coordinates come from Nominatim (ODbL 1.0). Only motorway, trunk and primary roads are routed, which makes this an arterial extract rather than the whole street network. Travel-time observations are SIMULATED over that real topology — no free source publishes per-edge observed times for Bengaluru. Fares are the same published tables as the synthetic bundle. See SOURCES.md.",
+  "attribution": [
+    "Map data © OpenStreetMap contributors, ODbL 1.0 (https://www.openstreetmap.org/copyright)",
+    "Geocoding © OpenStreetMap contributors via Nominatim, ODbL 1.0"
+  ]
+}

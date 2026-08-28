@@ -1,0 +1,7 @@
+2026-08-27 19:02:50,701 INFO    journeymind | serving frontend from C:\Users\abcom\Downloads\quicktravel\backend\app\static
+INFO:     Started server process [3260]
+INFO:     Waiting for application startup.
+2026-08-27 19:02:50,715 INFO    journeymind.models | travel-time model: GAT
+2026-08-27 19:02:50,734 INFO    journeymind | ready in 0.03s — Bengaluru — Purple/Green/Yellow Line corridor | 223 nodes, 1442 edges | model: GAT
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)

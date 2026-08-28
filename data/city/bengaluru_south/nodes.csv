@@ -1,0 +1,224 @@
+node_id,name,kind,lat,lon,lines,is_interchange,category,degree,observed_congestion,latent_congestion
+mg_magadi,Magadi Road,metro_station,12.9752,77.5548,purple,0,,8,0.27591,0.22664
+mg_central,Sir M. Visvesvaraya,metro_station,12.974,77.5806,purple,0,,7,0.2898,0.19546
+mg_majestic,Majestic (Kempegowda),metro_station,12.9757,77.5729,purple|green,1,,10,0.0,0.19932
+mg_vidhana,Vidhana Soudha,metro_station,12.9794,77.5906,purple,0,,7,0.0,0.25281
+mg_cubbon,Cubbon Park,metro_station,12.9782,77.596,purple,0,,7,0.29515,0.33748
+mg_mgroad,M.G. Road,metro_station,12.9756,77.6068,purple,0,,8,0.61059,0.59073
+mg_trinity,Trinity,metro_station,12.9731,77.6169,purple,0,,6,0.46312,0.8127
+mg_halasuru,Halasuru,metro_station,12.9767,77.6265,purple,0,,7,0.39625,0.96889
+mg_indiranagar,Indiranagar,metro_station,12.9784,77.6383,purple,0,,6,0.42463,0.97373
+mg_svroad,Swami Vivekananda Road,metro_station,12.9857,77.6432,purple,0,,7,1.0,0.8546
+mg_byappanahalli,Byappanahalli,metro_station,12.9906,77.6535,purple,0,,5,0.7096,0.54509
+mg_chickpete,Chickpete,metro_station,12.9673,77.576,green,0,,7,0.53398,0.19104
+mg_krmarket,Krishna Rajendra Market,metro_station,12.96,77.576,green,0,,9,0.0,0.18519
+mg_natcollege,National College,metro_station,12.9505,77.574,green,0,,6,0.27813,0.19751
+mg_lalbagh,Lalbagh,metro_station,12.945,77.58,green,0,,9,0.0,0.21728
+mg_southend,South End Circle,metro_station,12.937,77.579,green,0,,6,0.19675,0.26037
+mg_jayanagar,Jayanagar,metro_station,12.93,77.583,green,0,,7,0.04971,0.26959
+mg_rvroad,Rashtreeya Vidyalaya Road,metro_station,12.9215,77.58,green|yellow,1,,9,0.24912,0.23629
+mg_banashankari,Banashankari,metro_station,12.915,77.573,green,0,,7,0.93311,0.15675
+mg_ragigudda,Ragigudda,metro_station,12.9142,77.5905,yellow,0,,6,0.23577,0.13281
+mg_jayadeva,Jayadeva Hospital,metro_station,12.9178,77.5993,yellow,0,,7,0.0451,0.0955
+mg_btm,BTM Layout,metro_station,12.9166,77.6105,yellow,0,,6,0.01716,0.03003
+mg_silkboard,Central Silk Board,metro_station,12.9174,77.6228,yellow,0,,6,0.0,0.00887
+mg_bommanahalli,Bommanahalli,metro_station,12.901,77.6282,yellow,0,,5,0.30969,0.00032
+bs_201_00,MG Road corridor stop 1,bus_stop,12.9757,77.5729,,,,7,0.31913,0.19932
+bs_201_01,MG Road corridor stop 2,bus_stop,12.975838,77.580743,,,,8,0.31427,0.19557
+bs_201_02,MG Road corridor stop 3,bus_stop,12.975975,77.588587,,,,7,0.35722,0.2359
+bs_201_03,MG Road corridor stop 4,bus_stop,12.975811,77.596428,,,,8,0.20698,0.34822
+bs_201_04,MG Road corridor stop 5,bus_stop,12.97558,77.604269,,,,6,0.24763,0.52644
+bs_201_05,MG Road corridor stop 6,bus_stop,12.974914,77.612077,,,,9,0.72855,0.71987
+bs_201_06,MG Road corridor stop 7,bus_stop,12.974015,77.619867,,,,8,0.84687,0.87274
+bs_201_07,MG Road corridor stop 8,bus_stop,12.973409,77.627686,,,,6,1.0,0.95906
+bs_201_08,MG Road corridor stop 9,bus_stop,12.971363,77.634871,,,,6,1.0,0.93317
+bs_201_09,MG Road corridor stop 10,bus_stop,12.966256,77.640708,,,,9,0.67024,0.75042
+bs_012_00,Kanakapura Road stop 1,bus_stop,12.915,77.573,,,,6,0.74181,0.15675
+bs_012_01,Kanakapura Road stop 2,bus_stop,12.921555,77.577034,,,,7,0.04821,0.23237
+bs_012_02,Kanakapura Road stop 3,bus_stop,12.928128,77.580982,,,,10,0.0,0.27144
+bs_012_03,Kanakapura Road stop 4,bus_stop,12.935699,77.5799,,,,7,0.40769,0.26541
+bs_012_04,Kanakapura Road stop 5,bus_stop,12.943262,77.578763,,,,8,0.26145,0.22787
+bs_012_05,Kanakapura Road stop 6,bus_stop,12.950782,77.577353,,,,9,0.0,0.19504
+bs_012_06,Kanakapura Road stop 7,bus_stop,12.958304,77.575962,,,,7,0.67024,0.18509
+bs_012_07,Kanakapura Road stop 8,bus_stop,12.965892,77.575013,,,,8,0.39255,0.191
+bs_012_08,Kanakapura Road stop 9,bus_stop,12.973382,77.573551,,,,10,0.14326,0.19836
+bs_171_00,Koramangala corridor stop 1,bus_stop,12.93,77.583,,,,7,0.28869,0.26959
+bs_171_01,Koramangala corridor stop 2,bus_stop,12.931288,77.590731,,,,6,0.75528,0.21886
+bs_171_02,Koramangala corridor stop 3,bus_stop,12.932577,77.598462,,,,6,0.0,0.14492
+bs_171_03,Koramangala corridor stop 4,bus_stop,12.933615,77.60623,,,,6,0.2821,0.08826
+bs_171_04,Koramangala corridor stop 5,bus_stop,12.934531,77.614017,,,,7,0.0,0.06474
+bs_171_05,Koramangala corridor stop 6,bus_stop,12.936918,77.621287,,,,8,0.0,0.07864
+bs_171_06,Koramangala corridor stop 7,bus_stop,12.940843,77.628017,,,,7,0.23045,0.13174
+bs_171_07,Koramangala corridor stop 8,bus_stop,12.94657,77.632938,,,,5,0.42674,0.24175
+bs_171_08,Koramangala corridor stop 9,bus_stop,12.953047,77.637102,,,,6,0.22824,0.40069
+bs_171_09,Koramangala corridor stop 10,bus_stop,12.960083,77.639817,,,,7,0.19037,0.58854
+bs_500_00,Outer Ring Road stop 1,bus_stop,12.9215,77.58,,,,8,0.88265,0.23629
+bs_500_01,Outer Ring Road stop 2,bus_stop,12.923399,77.587597,,,,5,0.46425,0.22333
+bs_500_02,Outer Ring Road stop 3,bus_stop,12.925299,77.595194,,,,6,0.20183,0.16516
+bs_500_03,Outer Ring Road stop 4,bus_stop,12.927198,77.602791,,,,6,0.36506,0.09919
+bs_500_04,Outer Ring Road stop 5,bus_stop,12.929161,77.610365,,,,7,0.43112,0.05661
+bs_500_05,Outer Ring Road stop 6,bus_stop,12.932306,77.617514,,,,6,0.0,0.04932
+bs_500_06,Outer Ring Road stop 7,bus_stop,12.935451,77.624662,,,,7,0.0,0.06838
+bs_500_07,Outer Ring Road stop 8,bus_stop,12.938597,77.631811,,,,6,0.4326,0.1045
+bs_500_08,Outer Ring Road stop 9,bus_stop,12.943418,77.637564,,,,7,0.02717,0.17292
+bs_500_09,Outer Ring Road stop 10,bus_stop,12.949589,77.642192,,,,6,0.40929,0.27943
+bs_500_10,Outer Ring Road stop 11,bus_stop,12.955761,77.646821,,,,4,0.29845,0.37537
+bs_500_11,Outer Ring Road stop 12,bus_stop,12.962384,77.649783,,,,5,0.68479,0.47296
+bs_500_12,Outer Ring Road stop 13,bus_stop,12.969999,77.649091,,,,6,0.88234,0.64456
+bs_500_13,Outer Ring Road stop 14,bus_stop,12.977613,77.648399,,,,5,0.49206,0.76228
+bs_500_14,Outer Ring Road stop 15,bus_stop,12.98475,77.649759,,,,8,0.86237,0.71728
+bs_500_15,Outer Ring Road stop 16,bus_stop,12.9906,77.6535,,,,5,0.16694,0.54509
+bs_045_00,Magadi Road stop 1,bus_stop,12.9752,77.5548,,,,7,0.33444,0.22664
+bs_045_01,Magadi Road stop 2,bus_stop,12.971657,77.561751,,,,7,0.49755,0.22072
+bs_045_02,Magadi Road stop 3,bus_stop,12.969006,77.569051,,,,5,0.52006,0.2051
+bs_045_04,Magadi Road stop 5,bus_stop,12.95926,77.578135,,,,7,0.0,0.1825
+bs_356_00,Sarjapur Road stop 1,bus_stop,12.915,77.6905,,,,5,0.01959,0.13945
+bs_356_01,Sarjapur Road stop 2,bus_stop,12.917672,77.683152,,,,7,0.0,0.11477
+bs_356_02,Sarjapur Road stop 3,bus_stop,12.920344,77.675804,,,,6,0.0,0.07034
+bs_356_03,Sarjapur Road stop 4,bus_stop,12.921909,77.668157,,,,6,0.0,0.03423
+bs_356_04,Sarjapur Road stop 5,bus_stop,12.923114,77.660412,,,,5,0.12766,0.01711
+bs_356_05,Sarjapur Road stop 6,bus_stop,12.923631,77.652629,,,,5,0.23361,0.01299
+bs_356_06,Sarjapur Road stop 7,bus_stop,12.92324,77.644797,,,,6,0.2803,0.0126
+bs_356_07,Sarjapur Road stop 8,bus_stop,12.917758,77.639704,,,,7,0.0,0.00581
+bs_356_08,Sarjapur Road stop 9,bus_stop,12.917455,77.631991,,,,5,0.0,0.00596
+bs_356_09,Sarjapur Road stop 10,bus_stop,12.917408,77.624149,,,,5,0.0,0.00806
+bs_222_01,100 Feet Ring Road stop 2,bus_stop,12.919061,77.566355,,,,6,0.0,0.15029
+bs_222_02,100 Feet Ring Road stop 3,bus_stop,12.923509,77.559988,,,,6,0.07561,0.12693
+bs_222_03,100 Feet Ring Road stop 4,bus_stop,12.928119,77.553739,,,,4,0.0,0.10404
+bs_222_04,100 Feet Ring Road stop 5,bus_stop,12.93135,77.546631,,,,6,0.25583,0.08538
+bs_222_05,100 Feet Ring Road stop 6,bus_stop,12.93378,77.539248,,,,7,0.11616,0.0752
+bs_222_06,100 Feet Ring Road stop 7,bus_stop,12.937828,77.533424,,,,6,0.29634,0.07663
+bs_222_07,100 Feet Ring Road stop 8,bus_stop,12.942,77.531,,,,4,0.09658,0.08478
+jn_000,Junction 000,junction,12.896409,77.625574,,,,3,0.10975,3e-05
+jn_001,Junction 001,junction,12.904282,77.625655,,,,4,0.22379,0.00118
+jn_002,Junction 002,junction,12.900611,77.633974,,,,4,0.2665,0.0
+jn_003,Junction 003,junction,12.911188,77.572643,,,,4,0.04149,0.11931
+jn_004,Junction 004,junction,12.90882,77.588263,,,,4,0.30533,0.09636
+jn_005,Junction 005,junction,12.910296,77.592621,,,,4,0.0,0.09053
+jn_006,Junction 006,junction,12.910679,77.623835,,,,5,0.34243,0.00377
+jn_007,Junction 007,junction,12.911516,77.638288,,,,6,0.0,0.0021
+jn_008,Junction 008,junction,12.909406,77.692335,,,,4,0.54848,0.12488
+jn_009,Junction 009,junction,12.919893,77.564837,,,,4,0.0,0.1445
+jn_010,Junction 010,junction,12.919579,77.56995,,,,6,0.33219,0.17991
+jn_011,Junction 011,junction,12.918596,77.579845,,,,5,0.0,0.21037
+jn_012,Junction 012,junction,12.917978,77.585684,,,,5,0.14665,0.19212
+jn_013,Junction 013,junction,12.916186,77.595266,,,,5,0.20151,0.11642
+jn_014,Junction 014,junction,12.916471,77.603365,,,,4,0.0,0.0627
+jn_015,Junction 015,junction,12.919653,77.608694,,,,4,0.0,0.0435
+jn_016,Junction 016,junction,12.919045,77.615571,,,,4,0.1288,0.02005
+jn_017,Junction 017,junction,12.917885,77.625255,,,,5,0.10395,0.00798
+jn_018,Junction 018,junction,12.918571,77.632148,,,,5,0.30345,0.00701
+jn_019,Junction 019,junction,12.916628,77.640225,,,,6,0.07794,0.00487
+jn_020,Junction 020,junction,12.919857,77.648208,,,,4,0.0,0.00795
+jn_021,Junction 021,junction,12.917883,77.662658,,,,4,0.0,0.01837
+jn_022,Junction 022,junction,12.917221,77.672084,,,,4,0.0,0.0519
+jn_023,Junction 023,junction,12.916659,77.68,,,,5,0.13697,0.09748
+jn_024,Junction 024,junction,12.915835,77.684731,,,,7,0.0,0.1229
+jn_025,Junction 025,junction,12.916106,77.692071,,,,6,0.21012,0.1408
+jn_026,Junction 026,junction,12.927123,77.540293,,,,6,0.38611,0.05623
+jn_027,Junction 027,junction,12.924695,77.545954,,,,4,0.0,0.0617
+jn_028,Junction 028,junction,12.923757,77.556155,,,,4,0.29166,0.10203
+jn_029,Junction 029,junction,12.92709,77.562168,,,,4,0.2778,0.15906
+jn_030,Junction 030,junction,12.925706,77.577097,,,,4,0.39502,0.25932
+jn_031,Junction 031,junction,12.926974,77.584382,,,,6,0.17511,0.25841
+jn_032,Junction 032,junction,12.926813,77.592896,,,,5,0.26145,0.1926
+jn_033,Junction 033,junction,12.925183,77.600031,,,,5,0.42049,0.11817
+jn_034,Junction 034,junction,12.92459,77.610975,,,,4,0.0,0.04377
+jn_035,Junction 035,junction,12.924711,77.638812,,,,4,0.0,0.01638
+jn_036,Junction 036,junction,12.923724,77.649162,,,,4,0.09708,0.01302
+jn_037,Junction 037,junction,12.925277,77.656957,,,,5,0.02913,0.01641
+jn_038,Junction 038,junction,12.923929,77.662788,,,,4,0.35005,0.02101
+jn_039,Junction 039,junction,12.925102,77.671309,,,,4,0.13723,0.04367
+jn_040,Junction 040,junction,12.92576,77.678314,,,,4,0.0,0.07234
+jn_041,Junction 041,junction,12.924904,77.687557,,,,4,0.0,0.11136
+jn_042,Junction 042,junction,12.932091,77.533202,,,,8,0.0,0.05834
+jn_043,Junction 043,junction,12.931989,77.541647,,,,6,0.14581,0.07438
+jn_044,Junction 044,junction,12.933163,77.545901,,,,5,0.59569,0.0894
+jn_045,Junction 045,junction,12.932852,77.557658,,,,4,0.1444,0.14215
+jn_046,Junction 046,junction,12.933246,77.577149,,,,4,0.26945,0.27017
+jn_047,Junction 047,junction,12.932397,77.586195,,,,4,0.43207,0.25296
+jn_048,Junction 048,junction,12.934673,77.595047,,,,4,0.03486,0.17594
+jn_049,Junction 049,junction,12.932452,77.602356,,,,5,0.0,0.11169
+jn_050,Junction 050,junction,12.935005,77.607155,,,,4,0.44352,0.0875
+jn_051,Junction 051,junction,12.933573,77.614899,,,,5,0.03079,0.05865
+jn_052,Junction 052,junction,12.934585,77.623004,,,,6,0.0,0.06104
+jn_053,Junction 053,junction,12.932551,77.634276,,,,4,0.51056,0.04943
+jn_054,Junction 054,junction,12.942736,77.525055,,,,4,0.2871,0.0719
+jn_055,Junction 055,junction,12.942047,77.532329,,,,4,0.27615,0.08826
+jn_056,Junction 056,junction,12.942211,77.571931,,,,4,0.17297,0.22345
+jn_057,Junction 057,junction,12.939171,77.579627,,,,6,0.46228,0.24971
+jn_058,Junction 058,junction,12.940535,77.611077,,,,4,0.0,0.10667
+jn_059,Junction 059,junction,12.939269,77.618409,,,,6,0.13303,0.09832
+jn_060,Junction 060,junction,12.939201,77.622708,,,,5,0.0,0.10296
+jn_061,Junction 061,junction,12.939475,77.634054,,,,7,0.23635,0.11569
+jn_062,Junction 062,junction,12.940442,77.640239,,,,5,0.0,0.12157
+jn_063,Junction 063,junction,12.949782,77.572471,,,,4,0.63857,0.19913
+jn_064,Junction 064,junction,12.947152,77.580183,,,,6,0.28213,0.20625
+jn_065,Junction 065,junction,12.949164,77.58461,,,,5,0.07198,0.18936
+jn_066,Junction 066,junction,12.947022,77.631117,,,,4,0.28327,0.25161
+jn_067,Junction 067,junction,12.947316,77.641227,,,,5,0.19667,0.23567
+jn_068,Junction 068,junction,12.949746,77.648226,,,,4,0.37644,0.23194
+jn_069,Junction 069,junction,12.957643,77.571786,,,,5,0.50828,0.19051
+jn_070,Junction 070,junction,12.956237,77.578215,,,,5,0.78644,0.18339
+jn_071,Junction 071,junction,12.957383,77.631901,,,,4,0.2515,0.55107
+jn_072,Junction 072,junction,12.954468,77.63855,,,,5,0.32584,0.43303
+jn_073,Junction 073,junction,12.956575,77.64552,,,,5,0.10254,0.4139
+jn_074,Junction 074,junction,12.955887,77.664508,,,,5,0.76464,0.1405
+jn_075,Junction 075,junction,12.954876,77.668406,,,,3,0.25298,0.10262
+jn_076,Junction 076,junction,12.961833,77.570669,,,,4,0.18993,0.19451
+jn_077,Junction 077,junction,12.964653,77.580418,,,,4,0.28039,0.18586
+jn_078,Junction 078,junction,12.96201,77.601917,,,,5,0.25297,0.33875
+jn_079,Junction 079,junction,12.962844,77.60867,,,,5,0.41195,0.4701
+jn_080,Junction 080,junction,12.965811,77.632871,,,,5,0.33138,0.81361
+jn_081,Junction 081,junction,12.965215,77.638229,,,,6,0.89181,0.75731
+jn_082,Junction 082,junction,12.964384,77.647161,,,,5,0.67826,0.57599
+jn_083,Junction 083,junction,12.964706,77.654064,,,,6,0.27182,0.42054
+jn_084,Junction 084,junction,12.962446,77.661909,,,,5,0.87147,0.234
+jn_085,Junction 085,junction,12.963165,77.66978,,,,4,0.48114,0.14049
+jn_086,Junction 086,junction,12.969433,77.546057,,,,5,0.06863,0.21219
+jn_087,Junction 087,junction,12.970971,77.556574,,,,6,0.0,0.22459
+jn_088,Junction 088,junction,12.973389,77.563093,,,,4,0.39528,0.21946
+jn_089,Junction 089,junction,12.971038,77.569423,,,,7,0.13712,0.20579
+jn_090,Junction 090,junction,12.973501,77.577334,,,,7,0.00778,0.19399
+jn_091,Junction 091,junction,12.972585,77.587654,,,,5,0.3524,0.22567
+jn_092,Junction 092,junction,12.969467,77.595279,,,,5,0.41802,0.3073
+jn_093,Junction 093,junction,12.971526,77.600154,,,,6,0.25551,0.41275
+jn_094,Junction 094,junction,12.970169,77.609434,,,,6,0.22361,0.61777
+jn_095,Junction 095,junction,12.971822,77.615114,,,,5,1.0,0.76421
+jn_096,Junction 096,junction,12.972761,77.626295,,,,5,0.80207,0.94129
+jn_097,Junction 097,junction,12.969782,77.632774,,,,5,1.0,0.9115
+jn_098,Junction 098,junction,12.970755,77.641769,,,,5,0.63275,0.8343
+jn_099,Junction 099,junction,12.970074,77.645872,,,,6,0.53504,0.73035
+jn_100,Junction 100,junction,12.973352,77.653454,,,,4,0.29699,0.56849
+jn_101,Junction 101,junction,12.97719,77.55353,,,,5,0.21969,0.22568
+jn_102,Junction 102,junction,12.977134,77.561284,,,,5,0.34456,0.22165
+jn_103,Junction 103,junction,12.979165,77.569956,,,,5,0.45382,0.20292
+jn_104,Junction 104,junction,12.979933,77.579559,,,,4,0.1864,0.19052
+jn_105,Junction 105,junction,12.978555,77.586026,,,,5,0.04998,0.21359
+jn_106,Junction 106,junction,12.97852,77.593595,,,,5,0.07997,0.29565
+jn_107,Junction 107,junction,12.981132,77.599875,,,,4,0.59258,0.40302
+jn_108,Junction 108,junction,12.978467,77.609774,,,,5,0.50972,0.66006
+jn_109,Junction 109,junction,12.979445,77.616774,,,,5,1.0,0.81121
+jn_110,Junction 110,junction,12.979387,77.622775,,,,4,1.0,0.91486
+jn_111,Junction 111,junction,12.97795,77.633856,,,,4,1.0,1.0
+jn_112,Junction 112,junction,12.980038,77.641689,,,,5,1.0,0.92732
+jn_113,Junction 113,junction,12.980394,77.64573,,,,5,0.75486,0.84293
+jn_114,Junction 114,junction,12.985313,77.640369,,,,4,0.80396,0.89942
+jn_115,Junction 115,junction,12.988303,77.646746,,,,4,0.69581,0.74416
+jn_116,Junction 116,junction,12.987418,77.656511,,,,4,0.4468,0.50291
+jn_117,Junction 117,junction,12.993163,77.657131,,,,4,0.63915,0.42046
+pl_home,Home (Vijayanagar),place,12.9722,77.5498,,,residential,3,0.20385,0.22193
+pl_college,College (Shanthinagar),place,12.9612,77.6042,,,education,3,0.63147,0.36154
+pl_domlur,Domlur Office Park,place,12.9628,77.6398,,,commercial,3,0.98587,0.66884
+pl_koramangala,Koramangala 5th Block,place,12.9352,77.6245,,,commercial,3,0.14526,0.06628
+pl_hsr_office,Office (HSR Layout edge),place,12.916,77.639,,,commercial,3,0.27665,0.00443
+pl_indiranagar_100ft,Indiranagar 100ft Road,place,12.9719,77.6412,,,commercial,3,1.0,0.86603
+pl_jayanagar_4b,Jayanagar 4th Block,place,12.926,77.5838,,,commercial,3,0.47237,0.25724
+pl_banashankari_home,Banashankari Home,place,12.9163,77.5702,,,residential,3,0.18213,0.15424
+pl_majestic_bus,Majestic Bus Station,place,12.9776,77.5715,,,transport,3,0.53405,0.20105
+pl_lalbagh_gate,Lalbagh West Gate,place,12.949,77.583,,,leisure,3,0.16864,0.19334
+pl_mg_road_shops,M.G. Road,place,12.9748,77.609,,,commercial,3,0.40785,0.64471
+pl_whitefield_gate,Old Airport Road Gate,place,12.9598,77.665,,,commercial,3,0.31978,0.16745
+pl_rv_college,R.V. Road Junction,place,12.9208,77.5812,,,transport,3,0.47905,0.22996
+pl_wipro_sarjapur,"Wipro Campus, Doddakannelli (Sarjapur Road)",place,12.9185,77.688,,,commercial,3,0.89306,0.13349
+pl_pes_university,"PES University, RR Campus (100 Feet Ring Road)",place,12.9346,77.5353,,,education,3,0.54132,0.06994

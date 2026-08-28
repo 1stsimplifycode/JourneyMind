@@ -1,0 +1,5 @@
+INFO:     127.0.0.1:54187 - "GET /api/demo HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54188 - "POST /api/recommend HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50186 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50187 - "GET /api/places HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50188 - "GET /api/places HTTP/1.1" 200 OK

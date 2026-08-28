@@ -1,0 +1,50 @@
+# JourneyMind on Render — one web service, Docker runtime.
+#
+# A single service is deliberate: FastAPI serves both the JSON API and the
+# built React bundle from the same origin. That removes cross-origin config,
+# halves the number of things that can fail at deploy time, and keeps the
+# whole app inside one free/starter instance.
+services:
+  - type: web
+    name: journeymind
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    plan: free
+    region: singapore          # nearest region to the study area
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      # Serve entirely from the bundled study-area data. No external feed is
+      # contacted, so the app cannot break because a portal went down.
+      - key: DEMO_MODE
+        value: "true"
+      - key: JM_CITY
+        value: bengaluru_south
+      # GAT is the served graph model -- the better of the two graph encoders
+      # on the bundled split, though not the most accurate model overall (see
+      # EVALUATION.md). If its weights are missing the service falls back to
+      # the historical-mean baseline and says so in /health and in every
+      # response, rather than failing to boot.
+      - key: JM_MODEL
+        value: gat
+      - key: JM_MODEL_FALLBACK
+        value: historical
+      - key: JM_K_CANDIDATES
+        value: "20"
+      - key: JM_RATE_LIMIT_PER_MIN
+        value: "60"
+      # Enterprise endpoints expose population-level data and fail closed.
+      # generateValue makes Render mint a secret at first deploy; read it from
+      # the dashboard and send it as X-API-Key. Rotate by regenerating.
+      #
+      # With DEMO_MODE=true (above) the built-in demo key is ALSO accepted, so
+      # the deployed demo is browsable. Set DEMO_MODE=false for a real pilot
+      # and this becomes the only way in.
+      - key: JM_API_KEYS
+        generateValue: true
+        sync: false
+      - key: LOG_LEVEL
+        value: INFO
+      - key: PYTHONUNBUFFERED
+        value: "1"

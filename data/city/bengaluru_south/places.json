@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": "pl_home",
+    "name": "Home (Vijayanagar)",
+    "lat": 12.9722,
+    "lon": 77.5498,
+    "category": "residential"
+  },
+  {
+    "place_id": "pl_college",
+    "name": "College (Shanthinagar)",
+    "lat": 12.9612,
+    "lon": 77.6042,
+    "category": "education"
+  },
+  {
+    "place_id": "pl_domlur",
+    "name": "Domlur Office Park",
+    "lat": 12.9628,
+    "lon": 77.6398,
+    "category": "commercial"
+  },
+  {
+    "place_id": "pl_koramangala",
+    "name": "Koramangala 5th Block",
+    "lat": 12.9352,
+    "lon": 77.6245,
+    "category": "commercial"
+  },
+  {
+    "place_id": "pl_hsr_office",
+    "name": "Office (HSR Layout edge)",
+    "lat": 12.916,
+    "lon": 77.639,
+    "category": "commercial"
+  },
+  {
+    "place_id": "pl_indiranagar_100ft",
+    "name": "Indiranagar 100ft Road",
+    "lat": 12.9719,
+    "lon": 77.6412,
+    "category": "commercial"
+  },
+  {
+    "place_id": "pl_jayanagar_4b",
+    "name": "Jayanagar 4th Block",
+    "lat": 12.926,
+    "lon": 77.5838,
+    "category": "commercial"
+  },
+  {
+    "place_id": "pl_banashankari_home",
+    "name": "Banashankari Home",
+    "lat": 12.9163,
+    "lon": 77.5702,
+    "category": "residential"
+  },
+  {
+    "place_id": "pl_majestic_bus",
+    "name": "Majestic Bus Station",
+    "lat": 12.9776,
+    "lon": 77.5715,
+    "category": "transport"
+  },
+  {
+    "place_id": "pl_lalbagh_gate",
+    "name": "Lalbagh West Gate",
+    "lat": 12.949,
+    "lon": 77.583,
+    "category": "leisure"
+  },
+  {
+    "place_id": "pl_mg_road_shops",
+    "name": "M.G. Road",
+    "lat": 12.9748,
+    "lon": 77.609,
+    "category": "commercial"
+  },
+  {
+    "place_id": "pl_whitefield_gate",
+    "name": "Old Airport Road Gate",
+    "lat": 12.9598,
+    "lon": 77.665,
+    "category": "commercial"
+  },
+  {
+    "place_id": "pl_rv_college",
+    "name": "R.V. Road Junction",
+    "lat": 12.9208,
+    "lon": 77.5812,
+    "category": "transport"
+  },
+  {
+    "place_id": "pl_wipro_sarjapur",
+    "name": "Wipro Campus, Doddakannelli (Sarjapur Road)",
+    "lat": 12.9185,
+    "lon": 77.688,
+    "category": "commercial"
+  },
+  {
+    "place_id": "pl_pes_university",
+    "name": "PES University, RR Campus (100 Feet Ring Road)",
+    "lat": 12.9346,
+    "lon": 77.5353,
+    "category": "education"
+  }
+]

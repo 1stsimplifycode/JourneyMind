@@ -1,0 +1,6 @@
+# --- JourneyMind training / evaluation dependencies (offline only) ---
+# Never installed in the deployed image. Used by scripts/train.py and
+# scripts/evaluate.py to fit models and export weights into models/.
+-r requirements.txt
+torch==2.5.1
+scikit-learn==1.6.0

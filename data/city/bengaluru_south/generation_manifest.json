@@ -1,0 +1,55 @@
+{
+  "seed": 20250827,
+  "config": {
+    "bbox": {
+      "min_lat": 12.895,
+      "min_lon": 77.525,
+      "max_lat": 13.006,
+      "max_lon": 77.696
+    },
+    "bus_stop_spacing_km": 0.85,
+    "junction_grid_km": 0.85,
+    "junction_keep_radius_km": 0.75,
+    "road_knn": 4,
+    "road_max_link_km": 1.5,
+    "place_connectors": 3,
+    "detour_factor": 1.28,
+    "walk_detour_factor": 1.2,
+    "walk_speed_kmph": 4.6,
+    "transit_detour_factor": 1.18,
+    "metro_speed_kmph": 41.0,
+    "metro_dwell_min": 0.42,
+    "metro_headway_peak": 4.0,
+    "metro_headway_offpeak": 8.0,
+    "metro_service_start_h": 5.0,
+    "metro_service_end_h": 23.5,
+    "metro_service_start_weekend_h": 6.0,
+    "bus_service_start_h": 5.5,
+    "bus_service_end_h": 23.0,
+    "bus_speed_kmph": 17.0,
+    "bus_dwell_min": 0.55,
+    "transfer_max_km": 0.85,
+    "transfer_penalty_min": 1.2,
+    "latent_bumps": 9,
+    "weeks": 8,
+    "rain_days": 7,
+    "obs_per_edge": 110,
+    "obs_noise_sigma": 0.115,
+    "service_start_h": 6,
+    "service_end_h": 23,
+    "sensitivity": {
+      "road": 0.85,
+      "bus": 0.95,
+      "metro": 0.06
+    }
+  },
+  "counts": {
+    "nodes": 223,
+    "road_edges": 526,
+    "transit_edges": 87,
+    "transfer_edges": 108,
+    "routes": 10,
+    "observations": 67430
+  },
+  "honesty_note": "Road junctions, bus stops, headways and every travel-time observation in this bundle are synthetic. Metro station names/positions follow the public Namma Metro network. The latent-congestion design makes neighbourhood averaging useful by construction, so any GNN-vs-MLP gap measured here is a statement about this generator, not about real cities."
+}

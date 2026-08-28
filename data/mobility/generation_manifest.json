@@ -1,0 +1,39 @@
+{
+  "seed": 20260828,
+  "bookings": 60000,
+  "weeks": 10,
+  "zones": 105,
+  "generated_from": "scripts/generate_mobility_data.py",
+  "data_class": "SIMULATED",
+  "honesty_note": "Every booking event in this bundle is simulated by a generative process written down in generate_mobility_data.py. No commercial ride-hailing platform publishes cancellation data and none was accessed. Accuracy figures measured here describe this generator, not any real operator.",
+  "observed_rates": {
+    "bike_taxi": {
+      "bookings": 14957,
+      "no_supply_rate": 0.1203,
+      "reject_rate": 0.2542,
+      "cancel_rate": 0.2389,
+      "completion_rate": 0.4994
+    },
+    "auto": {
+      "bookings": 15002,
+      "no_supply_rate": 0.1567,
+      "reject_rate": 0.1704,
+      "cancel_rate": 0.1295,
+      "completion_rate": 0.609
+    },
+    "cab": {
+      "bookings": 14917,
+      "no_supply_rate": 0.0823,
+      "reject_rate": 0.1259,
+      "cancel_rate": 0.1063,
+      "completion_rate": 0.7169
+    },
+    "carpool": {
+      "bookings": 15124,
+      "no_supply_rate": 0.3822,
+      "reject_rate": 0.2394,
+      "cancel_rate": 0.1434,
+      "completion_rate": 0.4025
+    }
+  }
+}

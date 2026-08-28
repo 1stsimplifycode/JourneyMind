@@ -1,0 +1,947 @@
+[
+  {
+    "zone_id": "mg_magadi",
+    "name": "Magadi Road",
+    "lat": 12.9752,
+    "lon": 77.5548,
+    "kind": "metro_station",
+    "latent_congestion": 0.22664,
+    "observed_congestion": 0.27591
+  },
+  {
+    "zone_id": "mg_central",
+    "name": "Sir M. Visvesvaraya",
+    "lat": 12.974,
+    "lon": 77.5806,
+    "kind": "metro_station",
+    "latent_congestion": 0.19546,
+    "observed_congestion": 0.2898
+  },
+  {
+    "zone_id": "mg_majestic",
+    "name": "Majestic (Kempegowda)",
+    "lat": 12.9757,
+    "lon": 77.5729,
+    "kind": "metro_station",
+    "latent_congestion": 0.19932,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "mg_vidhana",
+    "name": "Vidhana Soudha",
+    "lat": 12.9794,
+    "lon": 77.5906,
+    "kind": "metro_station",
+    "latent_congestion": 0.25281,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "mg_cubbon",
+    "name": "Cubbon Park",
+    "lat": 12.9782,
+    "lon": 77.596,
+    "kind": "metro_station",
+    "latent_congestion": 0.33748,
+    "observed_congestion": 0.29515
+  },
+  {
+    "zone_id": "mg_mgroad",
+    "name": "M.G. Road",
+    "lat": 12.9756,
+    "lon": 77.6068,
+    "kind": "metro_station",
+    "latent_congestion": 0.59073,
+    "observed_congestion": 0.61059
+  },
+  {
+    "zone_id": "mg_trinity",
+    "name": "Trinity",
+    "lat": 12.9731,
+    "lon": 77.6169,
+    "kind": "metro_station",
+    "latent_congestion": 0.8127,
+    "observed_congestion": 0.46312
+  },
+  {
+    "zone_id": "mg_halasuru",
+    "name": "Halasuru",
+    "lat": 12.9767,
+    "lon": 77.6265,
+    "kind": "metro_station",
+    "latent_congestion": 0.96889,
+    "observed_congestion": 0.39625
+  },
+  {
+    "zone_id": "mg_indiranagar",
+    "name": "Indiranagar",
+    "lat": 12.9784,
+    "lon": 77.6383,
+    "kind": "metro_station",
+    "latent_congestion": 0.97373,
+    "observed_congestion": 0.42463
+  },
+  {
+    "zone_id": "mg_svroad",
+    "name": "Swami Vivekananda Road",
+    "lat": 12.9857,
+    "lon": 77.6432,
+    "kind": "metro_station",
+    "latent_congestion": 0.8546,
+    "observed_congestion": 1.0
+  },
+  {
+    "zone_id": "mg_byappanahalli",
+    "name": "Byappanahalli",
+    "lat": 12.9906,
+    "lon": 77.6535,
+    "kind": "metro_station",
+    "latent_congestion": 0.54509,
+    "observed_congestion": 0.7096
+  },
+  {
+    "zone_id": "mg_chickpete",
+    "name": "Chickpete",
+    "lat": 12.9673,
+    "lon": 77.576,
+    "kind": "metro_station",
+    "latent_congestion": 0.19104,
+    "observed_congestion": 0.53398
+  },
+  {
+    "zone_id": "mg_krmarket",
+    "name": "Krishna Rajendra Market",
+    "lat": 12.96,
+    "lon": 77.576,
+    "kind": "metro_station",
+    "latent_congestion": 0.18519,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "mg_natcollege",
+    "name": "National College",
+    "lat": 12.9505,
+    "lon": 77.574,
+    "kind": "metro_station",
+    "latent_congestion": 0.19751,
+    "observed_congestion": 0.27813
+  },
+  {
+    "zone_id": "mg_lalbagh",
+    "name": "Lalbagh",
+    "lat": 12.945,
+    "lon": 77.58,
+    "kind": "metro_station",
+    "latent_congestion": 0.21728,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "mg_southend",
+    "name": "South End Circle",
+    "lat": 12.937,
+    "lon": 77.579,
+    "kind": "metro_station",
+    "latent_congestion": 0.26037,
+    "observed_congestion": 0.19675
+  },
+  {
+    "zone_id": "mg_jayanagar",
+    "name": "Jayanagar",
+    "lat": 12.93,
+    "lon": 77.583,
+    "kind": "metro_station",
+    "latent_congestion": 0.26959,
+    "observed_congestion": 0.04971
+  },
+  {
+    "zone_id": "mg_rvroad",
+    "name": "Rashtreeya Vidyalaya Road",
+    "lat": 12.9215,
+    "lon": 77.58,
+    "kind": "metro_station",
+    "latent_congestion": 0.23629,
+    "observed_congestion": 0.24912
+  },
+  {
+    "zone_id": "mg_banashankari",
+    "name": "Banashankari",
+    "lat": 12.915,
+    "lon": 77.573,
+    "kind": "metro_station",
+    "latent_congestion": 0.15675,
+    "observed_congestion": 0.93311
+  },
+  {
+    "zone_id": "mg_ragigudda",
+    "name": "Ragigudda",
+    "lat": 12.9142,
+    "lon": 77.5905,
+    "kind": "metro_station",
+    "latent_congestion": 0.13281,
+    "observed_congestion": 0.23577
+  },
+  {
+    "zone_id": "mg_jayadeva",
+    "name": "Jayadeva Hospital",
+    "lat": 12.9178,
+    "lon": 77.5993,
+    "kind": "metro_station",
+    "latent_congestion": 0.0955,
+    "observed_congestion": 0.0451
+  },
+  {
+    "zone_id": "mg_btm",
+    "name": "BTM Layout",
+    "lat": 12.9166,
+    "lon": 77.6105,
+    "kind": "metro_station",
+    "latent_congestion": 0.03003,
+    "observed_congestion": 0.01716
+  },
+  {
+    "zone_id": "mg_silkboard",
+    "name": "Central Silk Board",
+    "lat": 12.9174,
+    "lon": 77.6228,
+    "kind": "metro_station",
+    "latent_congestion": 0.00887,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "mg_bommanahalli",
+    "name": "Bommanahalli",
+    "lat": 12.901,
+    "lon": 77.6282,
+    "kind": "metro_station",
+    "latent_congestion": 0.00032,
+    "observed_congestion": 0.30969
+  },
+  {
+    "zone_id": "bs_201_00",
+    "name": "MG Road corridor stop 1",
+    "lat": 12.9757,
+    "lon": 77.5729,
+    "kind": "bus_stop",
+    "latent_congestion": 0.19932,
+    "observed_congestion": 0.31913
+  },
+  {
+    "zone_id": "bs_201_01",
+    "name": "MG Road corridor stop 2",
+    "lat": 12.975838,
+    "lon": 77.580743,
+    "kind": "bus_stop",
+    "latent_congestion": 0.19557,
+    "observed_congestion": 0.31427
+  },
+  {
+    "zone_id": "bs_201_02",
+    "name": "MG Road corridor stop 3",
+    "lat": 12.975975,
+    "lon": 77.588587,
+    "kind": "bus_stop",
+    "latent_congestion": 0.2359,
+    "observed_congestion": 0.35722
+  },
+  {
+    "zone_id": "bs_201_03",
+    "name": "MG Road corridor stop 4",
+    "lat": 12.975811,
+    "lon": 77.596428,
+    "kind": "bus_stop",
+    "latent_congestion": 0.34822,
+    "observed_congestion": 0.20698
+  },
+  {
+    "zone_id": "bs_201_04",
+    "name": "MG Road corridor stop 5",
+    "lat": 12.97558,
+    "lon": 77.604269,
+    "kind": "bus_stop",
+    "latent_congestion": 0.52644,
+    "observed_congestion": 0.24763
+  },
+  {
+    "zone_id": "bs_201_05",
+    "name": "MG Road corridor stop 6",
+    "lat": 12.974914,
+    "lon": 77.612077,
+    "kind": "bus_stop",
+    "latent_congestion": 0.71987,
+    "observed_congestion": 0.72855
+  },
+  {
+    "zone_id": "bs_201_06",
+    "name": "MG Road corridor stop 7",
+    "lat": 12.974015,
+    "lon": 77.619867,
+    "kind": "bus_stop",
+    "latent_congestion": 0.87274,
+    "observed_congestion": 0.84687
+  },
+  {
+    "zone_id": "bs_201_07",
+    "name": "MG Road corridor stop 8",
+    "lat": 12.973409,
+    "lon": 77.627686,
+    "kind": "bus_stop",
+    "latent_congestion": 0.95906,
+    "observed_congestion": 1.0
+  },
+  {
+    "zone_id": "bs_201_08",
+    "name": "MG Road corridor stop 9",
+    "lat": 12.971363,
+    "lon": 77.634871,
+    "kind": "bus_stop",
+    "latent_congestion": 0.93317,
+    "observed_congestion": 1.0
+  },
+  {
+    "zone_id": "bs_201_09",
+    "name": "MG Road corridor stop 10",
+    "lat": 12.966256,
+    "lon": 77.640708,
+    "kind": "bus_stop",
+    "latent_congestion": 0.75042,
+    "observed_congestion": 0.67024
+  },
+  {
+    "zone_id": "bs_012_00",
+    "name": "Kanakapura Road stop 1",
+    "lat": 12.915,
+    "lon": 77.573,
+    "kind": "bus_stop",
+    "latent_congestion": 0.15675,
+    "observed_congestion": 0.74181
+  },
+  {
+    "zone_id": "bs_012_01",
+    "name": "Kanakapura Road stop 2",
+    "lat": 12.921555,
+    "lon": 77.577034,
+    "kind": "bus_stop",
+    "latent_congestion": 0.23237,
+    "observed_congestion": 0.04821
+  },
+  {
+    "zone_id": "bs_012_02",
+    "name": "Kanakapura Road stop 3",
+    "lat": 12.928128,
+    "lon": 77.580982,
+    "kind": "bus_stop",
+    "latent_congestion": 0.27144,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_012_03",
+    "name": "Kanakapura Road stop 4",
+    "lat": 12.935699,
+    "lon": 77.5799,
+    "kind": "bus_stop",
+    "latent_congestion": 0.26541,
+    "observed_congestion": 0.40769
+  },
+  {
+    "zone_id": "bs_012_04",
+    "name": "Kanakapura Road stop 5",
+    "lat": 12.943262,
+    "lon": 77.578763,
+    "kind": "bus_stop",
+    "latent_congestion": 0.22787,
+    "observed_congestion": 0.26145
+  },
+  {
+    "zone_id": "bs_012_05",
+    "name": "Kanakapura Road stop 6",
+    "lat": 12.950782,
+    "lon": 77.577353,
+    "kind": "bus_stop",
+    "latent_congestion": 0.19504,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_012_06",
+    "name": "Kanakapura Road stop 7",
+    "lat": 12.958304,
+    "lon": 77.575962,
+    "kind": "bus_stop",
+    "latent_congestion": 0.18509,
+    "observed_congestion": 0.67024
+  },
+  {
+    "zone_id": "bs_012_07",
+    "name": "Kanakapura Road stop 8",
+    "lat": 12.965892,
+    "lon": 77.575013,
+    "kind": "bus_stop",
+    "latent_congestion": 0.191,
+    "observed_congestion": 0.39255
+  },
+  {
+    "zone_id": "bs_012_08",
+    "name": "Kanakapura Road stop 9",
+    "lat": 12.973382,
+    "lon": 77.573551,
+    "kind": "bus_stop",
+    "latent_congestion": 0.19836,
+    "observed_congestion": 0.14326
+  },
+  {
+    "zone_id": "bs_171_00",
+    "name": "Koramangala corridor stop 1",
+    "lat": 12.93,
+    "lon": 77.583,
+    "kind": "bus_stop",
+    "latent_congestion": 0.26959,
+    "observed_congestion": 0.28869
+  },
+  {
+    "zone_id": "bs_171_01",
+    "name": "Koramangala corridor stop 2",
+    "lat": 12.931288,
+    "lon": 77.590731,
+    "kind": "bus_stop",
+    "latent_congestion": 0.21886,
+    "observed_congestion": 0.75528
+  },
+  {
+    "zone_id": "bs_171_02",
+    "name": "Koramangala corridor stop 3",
+    "lat": 12.932577,
+    "lon": 77.598462,
+    "kind": "bus_stop",
+    "latent_congestion": 0.14492,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_171_03",
+    "name": "Koramangala corridor stop 4",
+    "lat": 12.933615,
+    "lon": 77.60623,
+    "kind": "bus_stop",
+    "latent_congestion": 0.08826,
+    "observed_congestion": 0.2821
+  },
+  {
+    "zone_id": "bs_171_04",
+    "name": "Koramangala corridor stop 5",
+    "lat": 12.934531,
+    "lon": 77.614017,
+    "kind": "bus_stop",
+    "latent_congestion": 0.06474,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_171_05",
+    "name": "Koramangala corridor stop 6",
+    "lat": 12.936918,
+    "lon": 77.621287,
+    "kind": "bus_stop",
+    "latent_congestion": 0.07864,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_171_06",
+    "name": "Koramangala corridor stop 7",
+    "lat": 12.940843,
+    "lon": 77.628017,
+    "kind": "bus_stop",
+    "latent_congestion": 0.13174,
+    "observed_congestion": 0.23045
+  },
+  {
+    "zone_id": "bs_171_07",
+    "name": "Koramangala corridor stop 8",
+    "lat": 12.94657,
+    "lon": 77.632938,
+    "kind": "bus_stop",
+    "latent_congestion": 0.24175,
+    "observed_congestion": 0.42674
+  },
+  {
+    "zone_id": "bs_171_08",
+    "name": "Koramangala corridor stop 9",
+    "lat": 12.953047,
+    "lon": 77.637102,
+    "kind": "bus_stop",
+    "latent_congestion": 0.40069,
+    "observed_congestion": 0.22824
+  },
+  {
+    "zone_id": "bs_171_09",
+    "name": "Koramangala corridor stop 10",
+    "lat": 12.960083,
+    "lon": 77.639817,
+    "kind": "bus_stop",
+    "latent_congestion": 0.58854,
+    "observed_congestion": 0.19037
+  },
+  {
+    "zone_id": "bs_500_00",
+    "name": "Outer Ring Road stop 1",
+    "lat": 12.9215,
+    "lon": 77.58,
+    "kind": "bus_stop",
+    "latent_congestion": 0.23629,
+    "observed_congestion": 0.88265
+  },
+  {
+    "zone_id": "bs_500_01",
+    "name": "Outer Ring Road stop 2",
+    "lat": 12.923399,
+    "lon": 77.587597,
+    "kind": "bus_stop",
+    "latent_congestion": 0.22333,
+    "observed_congestion": 0.46425
+  },
+  {
+    "zone_id": "bs_500_02",
+    "name": "Outer Ring Road stop 3",
+    "lat": 12.925299,
+    "lon": 77.595194,
+    "kind": "bus_stop",
+    "latent_congestion": 0.16516,
+    "observed_congestion": 0.20183
+  },
+  {
+    "zone_id": "bs_500_03",
+    "name": "Outer Ring Road stop 4",
+    "lat": 12.927198,
+    "lon": 77.602791,
+    "kind": "bus_stop",
+    "latent_congestion": 0.09919,
+    "observed_congestion": 0.36506
+  },
+  {
+    "zone_id": "bs_500_04",
+    "name": "Outer Ring Road stop 5",
+    "lat": 12.929161,
+    "lon": 77.610365,
+    "kind": "bus_stop",
+    "latent_congestion": 0.05661,
+    "observed_congestion": 0.43112
+  },
+  {
+    "zone_id": "bs_500_05",
+    "name": "Outer Ring Road stop 6",
+    "lat": 12.932306,
+    "lon": 77.617514,
+    "kind": "bus_stop",
+    "latent_congestion": 0.04932,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_500_06",
+    "name": "Outer Ring Road stop 7",
+    "lat": 12.935451,
+    "lon": 77.624662,
+    "kind": "bus_stop",
+    "latent_congestion": 0.06838,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_500_07",
+    "name": "Outer Ring Road stop 8",
+    "lat": 12.938597,
+    "lon": 77.631811,
+    "kind": "bus_stop",
+    "latent_congestion": 0.1045,
+    "observed_congestion": 0.4326
+  },
+  {
+    "zone_id": "bs_500_08",
+    "name": "Outer Ring Road stop 9",
+    "lat": 12.943418,
+    "lon": 77.637564,
+    "kind": "bus_stop",
+    "latent_congestion": 0.17292,
+    "observed_congestion": 0.02717
+  },
+  {
+    "zone_id": "bs_500_09",
+    "name": "Outer Ring Road stop 10",
+    "lat": 12.949589,
+    "lon": 77.642192,
+    "kind": "bus_stop",
+    "latent_congestion": 0.27943,
+    "observed_congestion": 0.40929
+  },
+  {
+    "zone_id": "bs_500_10",
+    "name": "Outer Ring Road stop 11",
+    "lat": 12.955761,
+    "lon": 77.646821,
+    "kind": "bus_stop",
+    "latent_congestion": 0.37537,
+    "observed_congestion": 0.29845
+  },
+  {
+    "zone_id": "bs_500_11",
+    "name": "Outer Ring Road stop 12",
+    "lat": 12.962384,
+    "lon": 77.649783,
+    "kind": "bus_stop",
+    "latent_congestion": 0.47296,
+    "observed_congestion": 0.68479
+  },
+  {
+    "zone_id": "bs_500_12",
+    "name": "Outer Ring Road stop 13",
+    "lat": 12.969999,
+    "lon": 77.649091,
+    "kind": "bus_stop",
+    "latent_congestion": 0.64456,
+    "observed_congestion": 0.88234
+  },
+  {
+    "zone_id": "bs_500_13",
+    "name": "Outer Ring Road stop 14",
+    "lat": 12.977613,
+    "lon": 77.648399,
+    "kind": "bus_stop",
+    "latent_congestion": 0.76228,
+    "observed_congestion": 0.49206
+  },
+  {
+    "zone_id": "bs_500_14",
+    "name": "Outer Ring Road stop 15",
+    "lat": 12.98475,
+    "lon": 77.649759,
+    "kind": "bus_stop",
+    "latent_congestion": 0.71728,
+    "observed_congestion": 0.86237
+  },
+  {
+    "zone_id": "bs_500_15",
+    "name": "Outer Ring Road stop 16",
+    "lat": 12.9906,
+    "lon": 77.6535,
+    "kind": "bus_stop",
+    "latent_congestion": 0.54509,
+    "observed_congestion": 0.16694
+  },
+  {
+    "zone_id": "bs_045_00",
+    "name": "Magadi Road stop 1",
+    "lat": 12.9752,
+    "lon": 77.5548,
+    "kind": "bus_stop",
+    "latent_congestion": 0.22664,
+    "observed_congestion": 0.33444
+  },
+  {
+    "zone_id": "bs_045_01",
+    "name": "Magadi Road stop 2",
+    "lat": 12.971657,
+    "lon": 77.561751,
+    "kind": "bus_stop",
+    "latent_congestion": 0.22072,
+    "observed_congestion": 0.49755
+  },
+  {
+    "zone_id": "bs_045_02",
+    "name": "Magadi Road stop 3",
+    "lat": 12.969006,
+    "lon": 77.569051,
+    "kind": "bus_stop",
+    "latent_congestion": 0.2051,
+    "observed_congestion": 0.52006
+  },
+  {
+    "zone_id": "bs_045_04",
+    "name": "Magadi Road stop 5",
+    "lat": 12.95926,
+    "lon": 77.578135,
+    "kind": "bus_stop",
+    "latent_congestion": 0.1825,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_356_00",
+    "name": "Sarjapur Road stop 1",
+    "lat": 12.915,
+    "lon": 77.6905,
+    "kind": "bus_stop",
+    "latent_congestion": 0.13945,
+    "observed_congestion": 0.01959
+  },
+  {
+    "zone_id": "bs_356_01",
+    "name": "Sarjapur Road stop 2",
+    "lat": 12.917672,
+    "lon": 77.683152,
+    "kind": "bus_stop",
+    "latent_congestion": 0.11477,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_356_02",
+    "name": "Sarjapur Road stop 3",
+    "lat": 12.920344,
+    "lon": 77.675804,
+    "kind": "bus_stop",
+    "latent_congestion": 0.07034,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_356_03",
+    "name": "Sarjapur Road stop 4",
+    "lat": 12.921909,
+    "lon": 77.668157,
+    "kind": "bus_stop",
+    "latent_congestion": 0.03423,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_356_04",
+    "name": "Sarjapur Road stop 5",
+    "lat": 12.923114,
+    "lon": 77.660412,
+    "kind": "bus_stop",
+    "latent_congestion": 0.01711,
+    "observed_congestion": 0.12766
+  },
+  {
+    "zone_id": "bs_356_05",
+    "name": "Sarjapur Road stop 6",
+    "lat": 12.923631,
+    "lon": 77.652629,
+    "kind": "bus_stop",
+    "latent_congestion": 0.01299,
+    "observed_congestion": 0.23361
+  },
+  {
+    "zone_id": "bs_356_06",
+    "name": "Sarjapur Road stop 7",
+    "lat": 12.92324,
+    "lon": 77.644797,
+    "kind": "bus_stop",
+    "latent_congestion": 0.0126,
+    "observed_congestion": 0.2803
+  },
+  {
+    "zone_id": "bs_356_07",
+    "name": "Sarjapur Road stop 8",
+    "lat": 12.917758,
+    "lon": 77.639704,
+    "kind": "bus_stop",
+    "latent_congestion": 0.00581,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_356_08",
+    "name": "Sarjapur Road stop 9",
+    "lat": 12.917455,
+    "lon": 77.631991,
+    "kind": "bus_stop",
+    "latent_congestion": 0.00596,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_356_09",
+    "name": "Sarjapur Road stop 10",
+    "lat": 12.917408,
+    "lon": 77.624149,
+    "kind": "bus_stop",
+    "latent_congestion": 0.00806,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_222_01",
+    "name": "100 Feet Ring Road stop 2",
+    "lat": 12.919061,
+    "lon": 77.566355,
+    "kind": "bus_stop",
+    "latent_congestion": 0.15029,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_222_02",
+    "name": "100 Feet Ring Road stop 3",
+    "lat": 12.923509,
+    "lon": 77.559988,
+    "kind": "bus_stop",
+    "latent_congestion": 0.12693,
+    "observed_congestion": 0.07561
+  },
+  {
+    "zone_id": "bs_222_03",
+    "name": "100 Feet Ring Road stop 4",
+    "lat": 12.928119,
+    "lon": 77.553739,
+    "kind": "bus_stop",
+    "latent_congestion": 0.10404,
+    "observed_congestion": 0.0
+  },
+  {
+    "zone_id": "bs_222_04",
+    "name": "100 Feet Ring Road stop 5",
+    "lat": 12.93135,
+    "lon": 77.546631,
+    "kind": "bus_stop",
+    "latent_congestion": 0.08538,
+    "observed_congestion": 0.25583
+  },
+  {
+    "zone_id": "bs_222_05",
+    "name": "100 Feet Ring Road stop 6",
+    "lat": 12.93378,
+    "lon": 77.539248,
+    "kind": "bus_stop",
+    "latent_congestion": 0.0752,
+    "observed_congestion": 0.11616
+  },
+  {
+    "zone_id": "bs_222_06",
+    "name": "100 Feet Ring Road stop 7",
+    "lat": 12.937828,
+    "lon": 77.533424,
+    "kind": "bus_stop",
+    "latent_congestion": 0.07663,
+    "observed_congestion": 0.29634
+  },
+  {
+    "zone_id": "bs_222_07",
+    "name": "100 Feet Ring Road stop 8",
+    "lat": 12.942,
+    "lon": 77.531,
+    "kind": "bus_stop",
+    "latent_congestion": 0.08478,
+    "observed_congestion": 0.09658
+  },
+  {
+    "zone_id": "pl_home",
+    "name": "Home (Vijayanagar)",
+    "lat": 12.9722,
+    "lon": 77.5498,
+    "kind": "place",
+    "latent_congestion": 0.22193,
+    "observed_congestion": 0.20385
+  },
+  {
+    "zone_id": "pl_college",
+    "name": "College (Shanthinagar)",
+    "lat": 12.9612,
+    "lon": 77.6042,
+    "kind": "place",
+    "latent_congestion": 0.36154,
+    "observed_congestion": 0.63147
+  },
+  {
+    "zone_id": "pl_domlur",
+    "name": "Domlur Office Park",
+    "lat": 12.9628,
+    "lon": 77.6398,
+    "kind": "place",
+    "latent_congestion": 0.66884,
+    "observed_congestion": 0.98587
+  },
+  {
+    "zone_id": "pl_koramangala",
+    "name": "Koramangala 5th Block",
+    "lat": 12.9352,
+    "lon": 77.6245,
+    "kind": "place",
+    "latent_congestion": 0.06628,
+    "observed_congestion": 0.14526
+  },
+  {
+    "zone_id": "pl_hsr_office",
+    "name": "Office (HSR Layout edge)",
+    "lat": 12.916,
+    "lon": 77.639,
+    "kind": "place",
+    "latent_congestion": 0.00443,
+    "observed_congestion": 0.27665
+  },
+  {
+    "zone_id": "pl_indiranagar_100ft",
+    "name": "Indiranagar 100ft Road",
+    "lat": 12.9719,
+    "lon": 77.6412,
+    "kind": "place",
+    "latent_congestion": 0.86603,
+    "observed_congestion": 1.0
+  },
+  {
+    "zone_id": "pl_jayanagar_4b",
+    "name": "Jayanagar 4th Block",
+    "lat": 12.926,
+    "lon": 77.5838,
+    "kind": "place",
+    "latent_congestion": 0.25724,
+    "observed_congestion": 0.47237
+  },
+  {
+    "zone_id": "pl_banashankari_home",
+    "name": "Banashankari Home",
+    "lat": 12.9163,
+    "lon": 77.5702,
+    "kind": "place",
+    "latent_congestion": 0.15424,
+    "observed_congestion": 0.18213
+  },
+  {
+    "zone_id": "pl_majestic_bus",
+    "name": "Majestic Bus Station",
+    "lat": 12.9776,
+    "lon": 77.5715,
+    "kind": "place",
+    "latent_congestion": 0.20105,
+    "observed_congestion": 0.53405
+  },
+  {
+    "zone_id": "pl_lalbagh_gate",
+    "name": "Lalbagh West Gate",
+    "lat": 12.949,
+    "lon": 77.583,
+    "kind": "place",
+    "latent_congestion": 0.19334,
+    "observed_congestion": 0.16864
+  },
+  {
+    "zone_id": "pl_mg_road_shops",
+    "name": "M.G. Road",
+    "lat": 12.9748,
+    "lon": 77.609,
+    "kind": "place",
+    "latent_congestion": 0.64471,
+    "observed_congestion": 0.40785
+  },
+  {
+    "zone_id": "pl_whitefield_gate",
+    "name": "Old Airport Road Gate",
+    "lat": 12.9598,
+    "lon": 77.665,
+    "kind": "place",
+    "latent_congestion": 0.16745,
+    "observed_congestion": 0.31978
+  },
+  {
+    "zone_id": "pl_rv_college",
+    "name": "R.V. Road Junction",
+    "lat": 12.9208,
+    "lon": 77.5812,
+    "kind": "place",
+    "latent_congestion": 0.22996,
+    "observed_congestion": 0.47905
+  },
+  {
+    "zone_id": "pl_wipro_sarjapur",
+    "name": "Wipro Campus, Doddakannelli (Sarjapur Road)",
+    "lat": 12.9185,
+    "lon": 77.688,
+    "kind": "place",
+    "latent_congestion": 0.13349,
+    "observed_congestion": 0.89306
+  },
+  {
+    "zone_id": "pl_pes_university",
+    "name": "PES University, RR Campus (100 Feet Ring Road)",
+    "lat": 12.9346,
+    "lon": 77.5353,
+    "kind": "place",
+    "latent_congestion": 0.06994,
+    "observed_congestion": 0.54132
+  }
+]

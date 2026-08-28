@@ -1,0 +1,128 @@
+{
+  "currency": "INR",
+  "_comment": "Fare models per MODE, not per brand. 'provenance' drives the honesty label shown in the UI. Nothing here is a live quote. Providers that share a vehicle share this fare model and differ by their own demand pricing.",
+  "modes": {
+    "walk": {
+      "label": "Walk",
+      "kind": "flat",
+      "flat_fare": 0.0,
+      "provenance": "exact",
+      "note": "Walking is free."
+    },
+    "metro": {
+      "label": "Metro",
+      "kind": "distance_slab",
+      "slabs": [
+        [
+          2.0,
+          10
+        ],
+        [
+          4.0,
+          15
+        ],
+        [
+          6.0,
+          20
+        ],
+        [
+          8.0,
+          25
+        ],
+        [
+          10.0,
+          30
+        ],
+        [
+          15.0,
+          40
+        ],
+        [
+          20.0,
+          50
+        ],
+        [
+          25.0,
+          60
+        ],
+        [
+          30.0,
+          70
+        ]
+      ],
+      "above_top_slab_fare": 80,
+      "provenance": "published",
+      "source": "BMRCL Namma Metro distance-slab fare table (transcribed)",
+      "note": "Transcribed from the operator's published slab structure. Slabs change; verify against BMRCL before citing this number anywhere that matters."
+    },
+    "bus": {
+      "label": "Bus",
+      "kind": "distance_slab",
+      "slabs": [
+        [
+          2.0,
+          6
+        ],
+        [
+          4.0,
+          11
+        ],
+        [
+          8.0,
+          16
+        ],
+        [
+          12.0,
+          21
+        ],
+        [
+          18.0,
+          26
+        ]
+      ],
+      "above_top_slab_fare": 31,
+      "provenance": "published",
+      "source": "BMTC ordinary-service stage fare structure (transcribed, approximate)",
+      "note": "BMTC fares are stage-based, not strictly distance-based; this is a distance approximation of the published stage table."
+    },
+    "bike_taxi": {
+      "label": "Bike taxi",
+      "kind": "metered",
+      "base_fare": 15.0,
+      "base_distance_km": 1.0,
+      "per_km": 7.0,
+      "per_min": 0.5,
+      "minimum_fare": 25.0,
+      "uncertainty_pct": 0.2,
+      "provenance": "estimated",
+      "source": "Fitted base + per-km + per-min model",
+      "note": "Bike-taxi fare ESTIMATE from a transparent base + per-km + per-min model. No live pricing. Platform demand pricing is applied separately per provider and is an assumption, not a published rate."
+    },
+    "auto": {
+      "label": "Auto",
+      "kind": "metered",
+      "base_fare": 30.0,
+      "base_distance_km": 2.0,
+      "per_km": 15.0,
+      "per_min": 0.0,
+      "minimum_fare": 30.0,
+      "uncertainty_pct": 0.1,
+      "provenance": "estimated",
+      "source": "Karnataka RTO regulated auto-rickshaw meter rate (transcribed)",
+      "note": "Regulated meter rate. What is actually charged often differs from the meter, so this is presented as an estimate."
+    },
+    "cab": {
+      "label": "Cab",
+      "kind": "metered",
+      "base_fare": 50.0,
+      "base_distance_km": 2.0,
+      "per_km": 14.0,
+      "per_min": 1.5,
+      "minimum_fare": 70.0,
+      "uncertainty_pct": 0.25,
+      "provenance": "estimated",
+      "source": "Fitted base + per-km + per-min model",
+      "note": "Cab fare ESTIMATE. Ride-hailing surge pricing is proprietary and is deliberately NOT modelled."
+    }
+  }
+}

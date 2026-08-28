@@ -1,0 +1,9 @@
+# --- JourneyMind serving dependencies (CPU-only, deliberately light) ---
+# The trained GNN is served through a NumPy forward pass over exported weights,
+# so PyTorch is NOT required at runtime. See requirements-train.txt for training.
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+numpy==2.2.1
+networkx==3.4.2
+tzdata==2024.2

@@ -1,0 +1,103 @@
+{
+  "generated_from": "bundled synthetic study-area dataset",
+  "prediction": {
+    "1. Free-flow time": {
+      "MAE_min": 0.432,
+      "RMSE_min": 0.8664,
+      "MAPE_pct": 29.136,
+      "n": 49729,
+      "peak_MAE_min": 0.8225,
+      "peak_RMSE_min": 1.4403,
+      "peak_MAPE_pct": 41.144,
+      "peak_n": 13697
+    },
+    "2. Historical mean": {
+      "MAE_min": 0.1598,
+      "RMSE_min": 0.3634,
+      "MAPE_pct": 7.294,
+      "n": 49729,
+      "peak_MAE_min": 0.2034,
+      "peak_RMSE_min": 0.4493,
+      "peak_MAPE_pct": 7.557,
+      "peak_n": 13697
+    },
+    "3. Gradient-boosted trees": {
+      "MAE_min": 0.1398,
+      "RMSE_min": 0.3595,
+      "MAPE_pct": 5.995,
+      "n": 49729,
+      "peak_MAE_min": 0.1899,
+      "peak_RMSE_min": 0.486,
+      "peak_MAPE_pct": 6.568,
+      "peak_n": 13697
+    },
+    "4. MLP (graph removed)": {
+      "MAE_min": 0.1475,
+      "RMSE_min": 0.3713,
+      "MAPE_pct": 6.428,
+      "peak_MAE_min": 0.1979,
+      "n": 49729,
+      "seeds": [
+        0,
+        1,
+        2
+      ],
+      "MAE_min_std": 0.0022,
+      "MAE_min_range": [
+        0.1445,
+        0.1496
+      ]
+    },
+    "5. GraphSAGE": {
+      "MAE_min": 0.1545,
+      "RMSE_min": 0.3772,
+      "MAPE_pct": 6.755,
+      "peak_MAE_min": 0.2072,
+      "n": 49729,
+      "seeds": [
+        0,
+        1,
+        2
+      ],
+      "MAE_min_std": 0.0157,
+      "MAE_min_range": [
+        0.1392,
+        0.1761
+      ]
+    },
+    "6. GAT": {
+      "MAE_min": 0.1453,
+      "RMSE_min": 0.3621,
+      "MAPE_pct": 6.527,
+      "peak_MAE_min": 0.1919,
+      "n": 49729,
+      "seeds": [
+        0,
+        1,
+        2
+      ],
+      "MAE_min_std": 0.0018,
+      "MAE_min_range": [
+        0.1436,
+        0.1478
+      ]
+    }
+  },
+  "recommendation": {
+    "scenarios_run": 25,
+    "feasible_recommendation_returned": 25,
+    "constraint_satisfaction_rate": 1.0,
+    "no_feasible_journey": 0,
+    "no_feasible_journey_with_labelled_fallbacks": 0,
+    "recommendation_is_multimodal_rate": 0.52,
+    "multimodal_beat_every_single_mode_on_cost": 7,
+    "multimodal_beat_every_single_mode_on_time": 7,
+    "median_saving_vs_cheapest_single_mode_inr": 63.69,
+    "mean_regret_score_units": 0.0,
+    "max_regret_score_units": 0.0,
+    "median_latency_ms": 2769.3,
+    "p95_latency_ms": 3410.7,
+    "note": "Regret is measured against the best journey in this request's own feasible pool, in the optimiser's weighted-score units. It measures self-consistency, not correctness -- there is no ground truth for 'the best journey'."
+  },
+  "honesty_note": "Every number here is measured on synthetic data whose generator makes neighbourhood averaging useful by construction. These figures describe that generator, not a real city, and must never be quoted as evidence about real-world travel-time prediction."
+}

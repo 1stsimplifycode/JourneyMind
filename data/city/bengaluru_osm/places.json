@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": "pl_wipro_sarjapur",
+    "name": "Wipro Campus, Doddakannelli (Sarjapur Road)",
+    "lat": 12.911538,
+    "lon": 77.693416,
+    "category": "office"
+  },
+  {
+    "place_id": "pl_pes_university",
+    "name": "PES University, RR Campus (100 Feet Ring Road)",
+    "lat": 12.934236,
+    "lon": 77.534324,
+    "category": "education"
+  },
+  {
+    "place_id": "pl_home",
+    "name": "Home (Vijayanagar)",
+    "lat": 12.970954,
+    "lon": 77.537385,
+    "category": "residential"
+  },
+  {
+    "place_id": "pl_college",
+    "name": "College (Shanthinagar)",
+    "lat": 12.957807,
+    "lon": 77.599415,
+    "category": "education"
+  },
+  {
+    "place_id": "pl_mg_road_shops",
+    "name": "M.G. Road",
+    "lat": 12.975526,
+    "lon": 77.60679,
+    "category": "retail"
+  },
+  {
+    "place_id": "pl_koramangala",
+    "name": "Koramangala 5th Block",
+    "lat": 12.935737,
+    "lon": 77.624081,
+    "category": "mixed"
+  },
+  {
+    "place_id": "pl_indiranagar_100ft",
+    "name": "Indiranagar 100ft Road",
+    "lat": 12.978176,
+    "lon": 77.640953,
+    "category": "retail"
+  },
+  {
+    "place_id": "pl_hsr_office",
+    "name": "Office (HSR Layout edge)",
+    "lat": 12.911623,
+    "lon": 77.638862,
+    "category": "office"
+  },
+  {
+    "place_id": "pl_banashankari_home",
+    "name": "Banashankari Home",
+    "lat": 12.92782,
+    "lon": 77.556621,
+    "category": "residential"
+  },
+  {
+    "place_id": "pl_jayanagar",
+    "name": "Jayanagar 4th Block",
+    "lat": 12.926574,
+    "lon": 77.583504,
+    "category": "retail"
+  },
+  {
+    "place_id": "pl_majestic",
+    "name": "Majestic Bus Station",
+    "lat": 12.977742,
+    "lon": 77.57239,
+    "category": "transport"
+  },
+  {
+    "place_id": "pl_domlur",
+    "name": "Domlur Office Park",
+    "lat": 12.962467,
+    "lon": 77.638196,
+    "category": "office"
+  },
+  {
+    "place_id": "pl_whitefield_gate",
+    "name": "Whitefield Gate",
+    "lat": 12.932049,
+    "lon": 77.684292,
+    "category": "office"
+  },
+  {
+    "place_id": "pl_electronic_city",
+    "name": "Electronic City Gate",
+    "lat": 12.903458,
+    "lon": 77.623003,
+    "category": "office"
+  },
+  {
+    "place_id": "pl_old_airport",
+    "name": "Old Airport Road Gate",
+    "lat": 12.960547,
+    "lon": 77.641899,
+    "category": "mixed"
+  }
+]

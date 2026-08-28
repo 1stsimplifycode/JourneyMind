@@ -1,0 +1,7 @@
+-r requirements-train.txt
+pytest==8.3.4
+httpx==0.28.1
+# Drives the running app over localhost to verify the demo flow and
+# capture screenshots (scripts/capture_demo.py). Uses the Chrome already
+# installed on the machine, so no browser download is needed.
+playwright==1.49.1
