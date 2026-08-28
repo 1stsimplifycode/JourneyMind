@@ -43,7 +43,6 @@ services:
       # and this becomes the only way in.
       - key: JM_API_KEYS
         generateValue: true
-        sync: false
       - key: LOG_LEVEL
         value: INFO
       - key: PYTHONUNBUFFERED
